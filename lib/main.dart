@@ -18,9 +18,9 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// reverse: Undo changes made by a specific commit
 /// merge: Combine changes from one branch into another(Move all commits)
 /// rebase
-/// pull
-/// push
-/// fetch
+/// pull: Download latest changes from to local
+/// push: Upload local changes to remote
+/// fetch: Refresh
 /// clone
 void main() {
   runApp(const MyApp());
