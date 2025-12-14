@@ -15,6 +15,7 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// switch(checkout): Move between branches -
 /// squash
 /// reset (soft - hard): Remove one or more more commits from history
+/// reverse: Undo changes made by a specific commit
 /// merge
 /// rebase
 /// pull
