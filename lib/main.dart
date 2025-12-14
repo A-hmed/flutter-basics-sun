@@ -13,17 +13,18 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// cherry pick: Move specific commit from one branch to another -
 /// branch: Create new branch -
 /// switch(checkout): Move between branches -
-/// squash
+/// squash(self study): Combine multiple commits into one commit -
 /// reset (soft - hard): Remove one or more more commits from history
 /// reverse: Undo changes made by a specific commit
 /// merge: Combine changes from one branch into another(Move all commits)
-/// rebase
+/// rebase(self study): Move commits from one branch to another(Replay commits)
 /// pull: Download latest changes from to local
 /// push: Upload local changes to remote
 /// fetch: Refresh
 /// clone
 /// fork
 /// How to create Pull Request(Merge Request)
+/// To move my repository to yours you can make a fork then clone
 void main() {
   runApp(const MyApp());
 }
