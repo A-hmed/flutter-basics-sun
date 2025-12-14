@@ -7,13 +7,14 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// Git gui tools -> Ides(Android Studio - Vs code - intelij - Github desktop - GitKraken - Sourcetree)
 ///
 /// Git commands ->
-/// init: Create new empty git repository(local)
-/// add
-/// commit
+/// init: Create new empty git repository(local) -
+/// add -
+/// commit: Save your changes with message -
+/// cherry pick
 /// branch
 /// switch
 /// squash
-/// reset (soft - hard)
+/// reset (soft - hard): Remove one or more more commits from history
 /// merge
 /// rebase
 /// pull
@@ -61,10 +62,3 @@ class Statless extends StatelessWidget {
   }
 
 }
-
-
-
-
-
-
-
