@@ -10,13 +10,13 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// init: Create new empty git repository(local) -
 /// add -
 /// commit: Save your changes with message -
-/// cherry pick
+/// cherry pick: Move specific commit from one branch to another -
 /// branch: Create new branch -
 /// switch(checkout): Move between branches -
 /// squash
 /// reset (soft - hard): Remove one or more more commits from history
 /// reverse: Undo changes made by a specific commit
-/// merge
+/// merge: Combine changes from one branch into another(Move all commits)
 /// rebase
 /// pull
 /// push
