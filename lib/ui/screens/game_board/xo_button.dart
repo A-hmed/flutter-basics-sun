@@ -16,6 +16,8 @@ class XoButton extends StatelessWidget {
           onClick(buttonIndex);
         },
         child: Container(
+          color: Colors.red,
+          margin: EdgeInsets.all(8),
           child: symbol.isEmpty
               ? SizedBox(
                   height: double.infinity,
