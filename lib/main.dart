@@ -22,6 +22,8 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// push: Upload local changes to remote
 /// fetch: Refresh
 /// clone
+/// fork
+/// How to create Pull Request(Merge Request)
 void main() {
   runApp(const MyApp());
 }
