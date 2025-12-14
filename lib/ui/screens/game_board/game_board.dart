@@ -49,7 +49,7 @@ class _GameBoardState extends State<GameBoard> {
         ),
         buildTimer(),
         SizedBox(
-          height: 32,
+          height: 24,
         ),
         buildPlayerTurnText(),
         SizedBox(
@@ -57,7 +57,7 @@ class _GameBoardState extends State<GameBoard> {
         ),
         buildGameGrid(),
         SizedBox(
-          height: 20,
+          height: 24,
         ),
       ],
     ));
@@ -256,12 +256,5 @@ class _GameBoardState extends State<GameBoard> {
       return true;
     }
     return false;
-  }
-
-  @override
-  void dispose() {
-    // TODO: implement dispose
-    super.dispose();
-    timer.cancel();
   }
 }
