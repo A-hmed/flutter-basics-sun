@@ -11,8 +11,8 @@ import 'package:flutter_basics_c17_mon/ui/screens/xo_intro/xo_intro.dart';
 /// add -
 /// commit: Save your changes with message -
 /// cherry pick
-/// branch
-/// switch
+/// branch: Create new branch -
+/// switch(checkout): Move between branches -
 /// squash
 /// reset (soft - hard): Remove one or more more commits from history
 /// merge
